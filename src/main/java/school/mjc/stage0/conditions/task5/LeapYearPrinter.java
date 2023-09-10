@@ -9,7 +9,7 @@ public class LeapYearPrinter {
         } else if (year % 4 == 0) {
             System.out.println("leap");
         } else {
-            System.out.println("no leap");
+            System.out.println("not leap");
         }
     }
 }
